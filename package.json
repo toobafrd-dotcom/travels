@@ -1,0 +1,11 @@
+{
+  "name": "travel-world",
+  "version": "1.0.0",
+  "description": "Travel World full stack website",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.0.0"
+  }
+}
